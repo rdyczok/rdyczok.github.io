@@ -1,0 +1,3 @@
+- rotate safety pin icon 45 degrees
+- more transparent item cards
+- setup get in touch
